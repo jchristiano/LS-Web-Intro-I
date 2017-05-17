@@ -1,0 +1,112 @@
+body{
+	margin: 0;
+}
+
+.white{
+	height: 800px;
+	background-color: white;
+	width: 600px;
+	position: relative;
+}
+
+
+
+
+.purple {
+	background-color: purple;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 95px;
+	width: 600px;
+}
+
+.red{
+	background-color: red;
+	position: absolute;
+	top: 95px;
+	left: 95px;
+	right: 95px;
+	height: 705px;
+}
+
+.blue-1{
+	background-color: blue;
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	height: 175px;
+	width: 300px;
+}
+
+.yellow-1{
+	background-color: yellow;
+	position: absolute;
+	top: 170px;
+	left: 165px;
+	height: 85px;
+	width: 85px;
+}
+
+.green-1 {
+	background: green;
+	position: absolute;
+	top: 170px;
+	left: 265px;
+	height: 115px;
+	width: 165px;
+	}
+
+.blue-2{
+	background-color: blue;
+	position: absolute;
+	top: 350px;
+	left: 150px;
+	height: 175px;
+	width: 300px;
+}
+
+.yellow-2{
+	background-color: yellow;
+	position: absolute;
+	top: 370px;
+	left: 165px;
+	height: 85px;
+	width: 85px;
+}
+
+.green-2 {
+	background: green;
+	position: absolute;
+	top: 370px;
+	left: 265px;
+	height: 115px;
+	width: 165px;
+	}
+
+.blue-3{
+	background-color: blue;
+	position: absolute;
+	top: 550px;
+	left: 150px;
+	height: 175px;
+	width: 300px;
+}
+
+.yellow-3{
+	background-color: yellow;
+	position: absolute;
+	top: 570px;
+	left: 165px;
+	height: 85px;
+	width: 85px;
+}
+
+.green-3 {
+	background: green;
+	position: absolute;
+	top: 570px;
+	left: 265px;
+	height: 115px;
+	width: 165px;
+	}
